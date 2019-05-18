@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+
+
+
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gitignore
+.idea/vcs.xml
+src/main/java/com/learn/cn/dao/UserDOMapper.java.1
+src/main/java/com/learn/cn/dao/UserDOMapper.java.2
+.idea/
+
